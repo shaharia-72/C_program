@@ -11,5 +11,5 @@ int main()
 
     printf("Sum : %d", sum);
 
-    return (0);
+    return 0;
 }
